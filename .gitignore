@@ -1,0 +1,4 @@
+venv/
+testing/
+nohup.out
+__pycache__/

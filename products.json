@@ -1,0 +1,252 @@
+[
+    {
+        "name": "Wireless Bluetooth Headphones",
+        "price": 59.99,
+        "description": "High-quality over-ear headphones with noise cancellation."
+    },
+    {
+        "name": "Stainless Steel Water Bottle",
+        "price": 19.95,
+        "description": "Double-walled, vacuum-insulated water bottle, 750ml."
+    },
+    {
+        "name": "Smartphone Stand",
+        "price": 12.99,
+        "description": "Adjustable aluminum stand for smartphones and tablets."
+    },
+    {
+        "name": "Yoga Mat",
+        "price": 25.99,
+        "description": "Eco-friendly, non-slip yoga mat with carrying strap."
+    },
+    {
+        "name": "LED Desk Lamp",
+        "price": 35.99,
+        "description": "Dimmable LED desk lamp with USB charging port."
+    },
+    {
+        "name": "Wireless Mouse",
+        "price": 14.99,
+        "description": "Ergonomic wireless mouse with adjustable DPI."
+    },
+    {
+        "name": "Portable Bluetooth Speaker",
+        "price": 49.99,
+        "description": "Waterproof and shockproof Bluetooth speaker with 12-hour battery life."
+    },
+    {
+        "name": "Electric Kettle",
+        "price": 29.99,
+        "description": "1.7-liter stainless steel electric kettle with auto shut-off."
+    },
+    {
+        "name": "Fitness Tracker",
+        "price": 39.99,
+        "description": "Water-resistant fitness tracker with heart rate monitor and sleep tracking."
+    },
+    {
+        "name": "Wireless Charging Pad",
+        "price": 21.99,
+        "description": "Fast wireless charging pad for Qi-enabled devices."
+    },
+    {
+        "name": "Reusable Grocery Bags",
+        "price": 16.99,
+        "description": "Set of 5 durable, washable, and foldable grocery bags."
+    },
+    {
+        "name": "Laptop Cooling Pad",
+        "price": 27.99,
+        "description": "Cooling pad with adjustable height and dual fans for laptops up to 17 inches."
+    },
+    {
+        "name": "Ceramic Coffee Mug",
+        "price": 9.99,
+        "description": "16oz ceramic coffee mug with comfortable handle."
+    },
+    {
+        "name": "USB-C Hub",
+        "price": 34.99,
+        "description": "7-in-1 USB-C hub with HDMI, USB 3.0, and SD card reader."
+    },
+    {
+        "name": "Electric Toothbrush",
+        "price": 49.99,
+        "description": "Rechargeable electric toothbrush with multiple brushing modes."
+    },
+    {
+        "name": "Travel Pillow",
+        "price": 22.99,
+        "description": "Memory foam travel pillow with ergonomic design for neck support."
+    },
+    {
+        "name": "Digital Alarm Clock",
+        "price": 18.99,
+        "description": "LED digital alarm clock with dual alarms and USB charging port."
+    },
+    {
+        "name": "Bluetooth Earbuds",
+        "price": 29.99,
+        "description": "Wireless Bluetooth earbuds with charging case and noise reduction."
+    },
+    {
+        "name": "Electric Pressure Cooker",
+        "price": 89.99,
+        "description": "8-quart electric pressure cooker with multiple cooking functions."
+    },
+    {
+        "name": "Stainless Steel Mixing Bowls",
+        "price": 25.99,
+        "description": "Set of 5 stainless steel mixing bowls with lids."
+    },
+    {
+        "name": "Smart Light Bulbs",
+        "price": 39.99,
+        "description": "Set of 4 smart LED light bulbs with Wi-Fi and voice control."
+    },
+    {
+        "name": "Cordless Drill",
+        "price": 49.99,
+        "description": "20V cordless drill with rechargeable battery and carrying case."
+    },
+    {
+        "name": "Waterproof Phone Case",
+        "price": 14.99,
+        "description": "Universal waterproof phone case for phones up to 6.5 inches."
+    },
+    {
+        "name": "Electric Wine Opener",
+        "price": 29.99,
+        "description": "Rechargeable electric wine opener with foil cutter."
+    },
+    {
+        "name": "Laptop Backpack",
+        "price": 39.99,
+        "description": "Water-resistant laptop backpack with USB charging port and anti-theft design."
+    },
+    {
+        "name": "Smart Plug",
+        "price": 22.99,
+        "description": "Wi-Fi smart plug with voice control and energy monitoring."
+    },
+    {
+        "name": "Noise Cancelling Headphones",
+        "price": 99.99,
+        "description": "Over-ear noise cancelling headphones with Bluetooth and built-in microphone."
+    },
+    {
+        "name": "Air Fryer",
+        "price": 89.99,
+        "description": "5.8-quart digital air fryer with touchscreen and pre-programmed settings."
+    },
+    {
+        "name": "Robot Vacuum Cleaner",
+        "price": 199.99,
+        "description": "Wi-Fi connected robot vacuum cleaner with auto-charging and voice control."
+    },
+    {
+        "name": "Cast Iron Skillet",
+        "price": 29.99,
+        "description": "12-inch pre-seasoned cast iron skillet with assist handle."
+    },
+    {
+        "name": "Electric Space Heater",
+        "price": 59.99,
+        "description": "Portable ceramic space heater with adjustable thermostat and overheat protection."
+    },
+    {
+        "name": "Smart Thermostat",
+        "price": 129.99,
+        "description": "Wi-Fi smart thermostat with programmable settings and energy-saving features."
+    },
+    {
+        "name": "Portable Power Bank",
+        "price": 24.99,
+        "description": "10,000mAh portable power bank with dual USB ports."
+    },
+    {
+        "name": "Electric Coffee Grinder",
+        "price": 27.99,
+        "description": "Electric coffee grinder with stainless steel blades and removable bowl."
+    },
+    {
+        "name": "Standing Desk Converter",
+        "price": 89.99,
+        "description": "Adjustable standing desk converter for laptops and monitors."
+    },
+    {
+        "name": "Handheld Vacuum Cleaner",
+        "price": 49.99,
+        "description": "Cordless handheld vacuum cleaner with powerful suction and rechargeable battery."
+    },
+    {
+        "name": "Digital Picture Frame",
+        "price": 79.99,
+        "description": "10-inch digital picture frame with Wi-Fi and app control."
+    },
+    {
+        "name": "Smart Scale",
+        "price": 29.99,
+        "description": "Bluetooth smart scale with body composition analysis and app integration."
+    },
+    {
+        "name": "Electric Shaver",
+        "price": 59.99,
+        "description": "Rechargeable electric shaver with multi-flex head and pop-up trimmer."
+    },
+    {
+        "name": "Home Security Camera",
+        "price": 49.99,
+        "description": "1080p indoor security camera with night vision and motion detection."
+    },
+    {
+        "name": "Electric Toothbrush Heads",
+        "price": 19.99,
+        "description": "Replacement brush heads compatible with most electric toothbrushes."
+    },
+    {
+        "name": "Cordless Hand Mixer",
+        "price": 29.99,
+        "description": "Rechargeable cordless hand mixer with multiple speed settings."
+    },
+    {
+        "name": "Memory Foam Mattress Topper",
+        "price": 89.99,
+        "description": "3-inch gel-infused memory foam mattress topper with ventilated design."
+    },
+    {
+        "name": "Electric Skillet",
+        "price": 39.99,
+        "description": "Non-stick electric skillet with adjustable temperature control and glass lid."
+    },
+    {
+        "name": "Rechargeable Flashlight",
+        "price": 25.99,
+        "description": "High-powered rechargeable flashlight with zoomable focus and multiple modes."
+    },
+    {
+        "name": "Digital Meat Thermometer",
+        "price": 14.99,
+        "description": "Instant-read digital meat thermometer with backlight and calibration feature."
+    },
+    {
+        "name": "Electric Hair Clipper",
+        "price": 34.99,
+        "description": "Cordless electric hair clipper with precision blades and multiple guard sizes."
+    },
+    {
+        "name": "Travel Luggage Set",
+        "price": 129.99,
+        "description": "3-piece hardshell travel luggage set with spinner wheels and TSA locks."
+    },
+    {
+        "name": "Air Purifier",
+        "price": 99.99,
+        "description": "HEPA air purifier with multiple filters and quiet operation for large rooms."
+    },
+    {
+        "name": "Smart Home Hub",
+        "price": 69.99,
+        "description": "Smart home hub with voice assistant and compatible with multiple devices."
+    }
+]
